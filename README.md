@@ -1,6 +1,4 @@
-# Buffon's Needle and Local Sampling in a Swarm
 
-This repository contains Python implementations for two tasks: Buffon's Needle and Local Sampling in a Swarm of robots. Each task explores different aspects of probabilistic and local sampling techniques, providing insights through simulation and statistical analysis.
 
 ## Task 5.1: Buffon's Needle
 
