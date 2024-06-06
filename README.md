@@ -46,5 +46,5 @@ file name: local_sampling.py
 
 plot results: task5.2_plot.png
 
-This task involves simulating a swarm of robots uniformly distributed over a unit square. Each robot is randomly assigned a color, either black or white, with equal probability. The goal is for each robot to estimate the overall number of black robots in the swarm based on local observations of its neighborhood, defined by a sensor range `r= [0.1, 0.2, 0.3, 0.4, 0.5]`.
+This task involves simulating a swarm of robots uniformly distributed over a unit square. Each robot is randomly assigned a color, either black or white, with equal probability. The goal is for each robot to estimate the overall number of black robots in the swarm based on local observations of its neighborhood, defined by a sensor range `r= [ 0.2, 0.3, 0.4, 0.5]`.
    
