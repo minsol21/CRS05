@@ -35,8 +35,8 @@ The goal is to determine the probability `P` that the needle will intersect one 
 Also, we reduced the number of experiments from 10000 to 100 since running the code was too slow.
 
 #### Potential Reasons:
-1. **Statistical Anomalies**: Given the random nature of the experiments, it's possible that the simulation results are showing a rare scenario where the estimates are unusually accurate. However, this should not consistently result in a ratio of 0 over many trials.
+1. Given the random nature of the experiments, it's possible that the simulation results are showing a rare scenario where the estimates are unusually accurate. However, this should not consistently result in a ratio of 0 over many trials.
 
-3. **Confidence Interval Calculation**: There may be a bug or incorrect implementation in the calculation of the 95% confidence intervals. The intervals may be too wide, consistently covering the true probability.
+3. There may be a bug or incorrect implementation in the calculation of the 95% confidence intervals. The intervals may be too wide, consistently covering the true probability.
 
 
