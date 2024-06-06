@@ -1,3 +1,12 @@
+# CRS04 Exercise
+
+## Team Members
+- **Minsol Kim**
+- **BhargavSolanki**
+
+## Overview
+This repository hosts our group's submission for Task Sheet 4 of Collective robotics and scalability.
+
 
 
 ## Task 5.1: Buffon's Needle
