@@ -112,7 +112,7 @@ def outside_confidence_ratio():
     #Number of trials
     max_n = 100
     trial_counts = np.arange(1, max_n + 1)
-    num_experiments = 10000
+    num_experiments = 100
    
    
     # Store the ratio of experiments outside the 95% confidence interval
@@ -148,10 +148,10 @@ def outside_confidence_ratio():
 if __name__ == "__main__":
 
     print("Running task 5.1b: Standard Deviation of Intersection Probabilities")
-    experiment_and_plot()
+    #experiment_and_plot()
     
     print("\nRunning task 5.1c: Measured Probability and 95% Confidence Interval")
-    confidence_intervals()
+    #confidence_intervals()
     
     print("\nRunning task 5.1d: Ratio of Experiments Outside 95% Confidence Interval")
     outside_confidence_ratio()
