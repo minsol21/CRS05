@@ -24,11 +24,11 @@ The goal is to determine the probability `P` that the needle will intersect one 
   \]
 
 ### Code Explanation
-- **'simulate_buffon_needle(n, b, s)'**: Simulates n needle drops, returning the intersection probability.
-- **'estimate_pi(P, b, s)'**: Estimates π using the intersection probability.
-- **'experiment_and_plot()'**: Conducts experiments and plots the standard deviation.
-- **'confidence_intervals()'**: Computes and plots the confidence intervals.
-- **'outside_confidence_ratio()'**: Measures and plots the ratio of experiments outside the confidence interval.
+- **`simulate_buffon_needle(n, b, s)`**: Simulates n needle drops, returning the intersection probability.
+- **`estimate_pi(P, b, s)`**: Estimates π using the intersection probability.
+- **`experiment_and_plot()`**: Conducts experiments and plots the standard deviation.
+- **`confidence_intervals()`**: Computes and plots the confidence intervals.
+- **`outside_confidence_ratio()`**: Measures and plots the ratio of experiments outside the confidence interval.
 
 
 ### What We Encountered
