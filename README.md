@@ -30,19 +30,6 @@ The goal is to determine the probability `P` that the needle will intersect one 
 
 3. **Confidence Interval Calculation**: There may be a bug or incorrect implementation in the calculation of the 95% confidence intervals. The intervals may be too wide, consistently covering the true probability.
 
-### Usage
-Run the script using:
-```bash
-python3 buffon.py
-'''
-
-Results will be printed to the console and plots saved as:
-
-task5.1b_plot.png
-
-task5.1c_plot.png
-
-task5.1d_plot.png
 
 ### Code Explanation
 - simulate_buffon_needle(n, b, s): Simulates n needle drops, returning the intersection probability.
