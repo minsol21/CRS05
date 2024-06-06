@@ -31,7 +31,8 @@ The goal is to determine the probability `P` that the needle will intersect one 
 
 
 ### What We Encountered
-**Problem**: In Task 5.1.d, the ratio of experiments for which the true probability was outside the 95% confidence interval was always 0. This suggests that the estimated probabilities always fell within the expected range, which is statistically unlikely.
+**Problem**: In Task 5.1.d, the ratio of experiments for which the true probability was outside the 95% confidence interval was always 0. This suggests that the estimated probabilities always fell within the expected range, which is statistically unlikely. 
+Also, we reduced the number of experiments from 10000 to 100 since running the code was too slow.
 
 #### Potential Reasons:
 1. **Statistical Anomalies**: Given the random nature of the experiments, it's possible that the simulation results are showing a rare scenario where the estimates are unusually accurate. However, this should not consistently result in a ratio of 0 over many trials.
