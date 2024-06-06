@@ -42,7 +42,7 @@ Also, we reduced the number of experiments from 10000 to 100 since running the c
 
 
 ## Task 5.2: Local Sampling in a Swarm
-
+file name: 
 This task involves simulating a swarm of robots uniformly distributed over a unit square. Each robot is randomly assigned a color, either black or white, with equal probability. The goal is for each robot to estimate the overall number of black robots in the swarm based on local observations of its neighborhood, defined by a sensor range `r`.
 
 
