@@ -2,7 +2,7 @@
 
 ## Team Members
 - **Minsol Kim**
-- **BhargavSolanki**
+- **Bhargav Solanki**
 
 ## Overview
 This repository hosts our group's submission for Task Sheet 4 of Collective robotics and scalability.
